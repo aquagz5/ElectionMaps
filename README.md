@@ -1,5 +1,5 @@
 # Building Election Maps
-A project that explores presidential election data, and build electoral college maps both statewide and countywide. Specifically, we took data from the 2016 presidential election.
+A project that explores presidential election data, and building electoral college maps both statewide and countywide. Specifically, we took data from the 2016 presidential election.
 
 StatesMap.sas cotains the code needed to produce election maps based on which candidates won each state. This produced election maps muck like the maps shown on news during the election to determine the electoral college. 
 

@@ -4,8 +4,3 @@ A project that explores presidential election data, and building electoral colle
 StatesMap.sas cotains the code needed to produce election maps based on which candidates won each state. This produced election maps muck like the maps shown on news during the election to determine the electoral college. 
 
 CountiesMap.sas contains the code needed to produce election maps based on which candidate won each county both in the United States and a select few of states with their individual county results. States that were analyzed include Pennsylvania, Arizona, and North Carolina. 
-
-# References
-https://support.sas.com/resources/papers/proceedings/proceedings/sugi29/251-29.pdf
-https://documentation.sas.com/api/docsets/grmapref/9.4_01/content/grmapref.pdf?locale=en
-
